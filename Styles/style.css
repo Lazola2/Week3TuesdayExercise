@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.phone ul li:first-child {
+    color: red;
+    font-size: 30px;
+}
+
+.phone ul li:last-child {
+    color: red;
+    font-size: 30px;
+}
